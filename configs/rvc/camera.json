@@ -3,7 +3,8 @@
     "rvc": {
       "timeout_ms": 800,
       "exposure": "manual",
-      "log_level": "info"
+      "log_level": "info",
+      "hdr": false
     }
   }
 }
